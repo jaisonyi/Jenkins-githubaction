@@ -18,7 +18,7 @@ jobs:
           application_id: ${{vars.ASOC_APPID}}
           scan_type: 'staging'
           dynamic_scan_type: dast
-          starting_URL: 'https://demo.testfire.net?mode=demo'
+          starting_URL: 'https://demo.testfire.net'
           login_method: userpass
           login_user: jsmith
           login_password: demo1234
