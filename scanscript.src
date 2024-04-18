@@ -1,0 +1,7 @@
+login_file WIN-1USPEQ96NVC "C:\ProgramData\HCL\AppScanSource\config\ounceautod.token" -acceptssl
+RUNAS AUTO
+OF "E:\actions-runner\actions-runner
+SCAN Jenkins-githubaction-altoroj.ozasmt
+rpt "Software Security Profile" html "E:\actions-runner\actions-runner\.....
+pase "E:\actions-runner\actions-runner....\Jenkins-githubaction-altoroj.ozasmt" -name jenkins-githubaction -aseapplication AltoroJ_2_GitRun
+Exit
